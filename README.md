@@ -12,7 +12,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Google%20AI%20Agent%20Challenge-2026%20Finalist-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Solved.ac-Gold%204-FCC624?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Solved.ac-Gold%205-FCC624?style=for-the-badge" />
 <img src="https://img.shields.io/badge/T--LAB-Research%20%26%20Startup-6f42c1?style=for-the-badge" />
 
 </div>
@@ -53,12 +53,8 @@
 - Advanced to the final round in 2026
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prestige-kim&repo=SPOTLINE_statistical_analysis_model&theme=transparent" />
-
 </div>
-
-> Add more repositories to your GitHub profile's pinned section and I can build a full project portfolio showcase.
 
 ## Honors & Activities
 
