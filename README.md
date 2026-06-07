@@ -9,6 +9,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=AI+Developer+in+the+making;Python+%7C+Java+%7C+C+%7C+C%2B%2B;Machine+Learning+%7C+Software+Engineering+%7C+Problem+Solving" alt="Typing SVG" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google%20AI%20Agent%20Challenge-2026%20Finalist-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Solved.ac-Gold%204-FCC624?style=for-the-badge" />
+<img src="https://img.shields.io/badge/T--LAB-Research%20%26%20Startup-6f42c1?style=for-the-badge" />
+
 </div>
 
 ## About Me
@@ -39,14 +45,20 @@
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## Featured Project
+## Featured Projects
 
-### Google AI Agent Challenge — **SpotLine Service Development**
-- **Goal:** predict visitor counts using a statistical machine learning model
-- **Model:** Ridge Regression
-- **Optimization:** GridSearchCV
-- **Repository:** [`SPOTLINE_statistical_analysis_model`](https://github.com/prestige-kim/SPOTLINE_statistical_analysis_model)
-- **Highlight:** advanced to the final round of the Google AI Agent Challenge (2026)
+### Google AI Agent Challenge — SpotLine Service Development
+- Visitor prediction system using Ridge Regression and GridSearchCV
+- Developed as part of the Google AI Agent Challenge
+- Advanced to the final round in 2026
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prestige-kim&repo=SPOTLINE_statistical_analysis_model&theme=transparent" />
+
+</div>
+
+> Add more repositories to your GitHub profile's pinned section and I can build a full project portfolio showcase.
 
 ## Honors & Activities
 
@@ -57,34 +69,24 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prestige-kim&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=prestige-kim&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prestige-kim&show_icons=true&theme=transparent&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=prestige-kim&theme=transparent&hide_border=true" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestige-kim&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestige-kim&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 ## Algorithm
 
-- **BOJ:** `966fdc`
-- **Solved.ac:** Gold 4  
-  [Profile](https://solved.ac/profile/966fdc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=966fdc)](https://solved.ac/profile/966fdc)
 
 ## Contact
 
-- **Email:** [proudchris@icloud.com](mailto:proudchris@icloud.com)
-- **Blog:** [drum-computer.tistory.com](https://drum-computer.tistory.com/)
-- **LinkedIn:** [in/myeongseong-kim-b87038402](https://www.linkedin.com/in/myeongseong-kim-b87038402)
-
-<br/>
+- Email: proudchris@icloud.com
+- Blog: https://drum-computer.tistory.com/
+- LinkedIn: https://www.linkedin.com/in/myeongseong-kim-b87038402
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=prestige-kim&style=flat-square" alt="Profile views" />
-
 </div>
