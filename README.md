@@ -20,7 +20,7 @@
 ### Finalist Certificate
 
 <p align="center">
-  <img src="./assets/google-ai-agent-challenge-certificate.png" width="850">
+  <img src="./assets/google-ai-agent-challenge-certificate.png" width="450">
 </p>
 
 <p align="center">
