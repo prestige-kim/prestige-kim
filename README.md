@@ -15,14 +15,27 @@
 
 ---
 
+## 🏅 Google AI Agent Challenge 2026
+
+### Finalist Certificate
+
+<p align="center">
+  <img src="./assets/google-ai-agent-challenge-certificate.png" width="850">
+</p>
+
+<p align="center">
+Google Cloud AI Agent Challenge 2026 본선 진출
+</p>
+
+---
+
 ## 🧠 About Me
 
 안녕하세요.
 
 한동대학교 AI컴퓨터공학심화 전공에 재학 중인 김명성입니다.
 
-현재 머신러닝, 자료구조, 알고리즘, 소프트웨어 엔지니어링을 공부하고 있으며,
-AI 기술을 실제 서비스에 적용하는 것에 큰 관심을 가지고 있습니다.
+현재 머신러닝, 자료구조, 알고리즘, 소프트웨어 엔지니어링을 공부하고 있으며 AI 기술을 실제 서비스에 적용하는 것에 큰 관심을 가지고 있습니다.
 
 특히 데이터를 활용한 문제 해결과 AI 기반 서비스 개발에 흥미를 느끼고 있습니다.
 
