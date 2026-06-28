@@ -6,7 +6,7 @@
 
 ---
 
-## 🏆 Highlights
+## 🎓 Highlights
 
 - 🥈 Google AI Agent Challenge 2026 **본선 진출**
 - 🏅 Solved.ac **Gold V**
