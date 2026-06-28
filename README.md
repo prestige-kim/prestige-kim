@@ -29,11 +29,13 @@ Google Cloud AI Agent Challenge 2026 본선 진출
 ---
 -->
 
+<!--
 ## 🏅 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=966fdc)](https://solved.ac/profile/966fdc)
 
 ---
+-->
 
 ## 📫 Contact
 
