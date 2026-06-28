@@ -29,27 +29,6 @@ Google Cloud AI Agent Challenge 2026 본선 진출
 
 ---
 
-## 🚀 Featured Project
-
-### SpotLine - Visitor Prediction System
-
-Google AI Agent Challenge에서 진행한 방문자 수 예측 프로젝트
-
-**Tech Stack**
-- Python
-- Ridge Regression
-- GridSearchCV
-- Statistical Analysis
-
-**Achievement**
-- Google AI Agent Challenge 2026 본선 진출
-
-📂 Repository
-
-https://github.com/prestige-kim/SPOTLINE_statistical_analysis_model
-
----
-
 ## 🏅 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=966fdc)](https://solved.ac/profile/966fdc)
