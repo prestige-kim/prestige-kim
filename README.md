@@ -1,4 +1,4 @@
-# 👋 김명성 | Myeongseong Kim
+# 🧑🏻‍💻 김명성 | Myeongseong Kim
 
 ### AI Developer · Machine Learning · Problem Solving
 
