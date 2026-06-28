@@ -13,8 +13,7 @@
 - 🧪 T-LAB (Technology Startup Advanced Lab)
 - 🎓 Handong Global University · AI Computer Engineering
 
----
-
+<!--
 ## 🏅 Google AI Agent Challenge 2026
 
 ### Finalist Certificate
@@ -28,6 +27,7 @@ Google Cloud AI Agent Challenge 2026 본선 진출
 </p>
 
 ---
+-->
 
 ## 🏅 Problem Solving
 
