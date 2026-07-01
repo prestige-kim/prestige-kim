@@ -8,7 +8,7 @@
 
 ## 🎓 Highlights
 
-- 🥈 Google AI Agent Challenge 2026 **본선 진출**
+- 🥈 Google AI Agent Challenge 2026 **우수상 수상**
 - 🏅 Solved.ac **Gold V**
 - 🧪 T-LAB (Technology Startup Advanced Lab)
 - 🎓 Handong Global University · AI Computer Engineering
