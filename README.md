@@ -16,14 +16,14 @@
 <!--
 ## 🏅 Google AI Agent Challenge 2026
 
-### Finalist Certificate
+### Award Certificate
 
 <p align="center">
   <img src="./assets/google-ai-agent-challenge-certificate.png" width="450">
 </p>
 
 <p align="center">
-Google Cloud AI Agent Challenge 2026 본선 진출
+Google Cloud AI Agent Challenge 2026 우수상 수상
 </p>
 
 ---
