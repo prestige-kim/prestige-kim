@@ -11,8 +11,12 @@
 - 🥈 Google AI Agent Challenge 2026 **우수상 수상**
 - 🏅 Solved.ac **Gold V**
 - 🧪 T-LAB (Technology Startup Advanced Lab)
-- 💼 Data Search Intern at **Impactive-AI** *(2026.06.29 ~ 2026.08.28)*
 - 🎓 Handong Global University · AI Computer Engineering
+
+## 💼 Experience
+
+- Data Search Intern · Impactive-AI
+  - 2026.06.29 ~ 2026.08.28
 
 <!--
 ## 🏅 Google AI Agent Challenge 2026
