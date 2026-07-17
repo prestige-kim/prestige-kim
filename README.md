@@ -15,7 +15,7 @@
 
 ## 💼 Experience
 
-- Data Search Intern · Impactive-AI
+- Data Search Intern · **Impactive-AI**
   - 2026.06.29 ~ 2026.08.28
 
 <!--
