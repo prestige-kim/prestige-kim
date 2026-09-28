@@ -11,6 +11,7 @@
 - 🥈 Google AI Agent Challenge 2026 **우수상 수상**
 - 🏅 Solved.ac **Gold V**
 - 🧪 T-LAB (Technology Startup Advanced Lab)
+- 🎓 **Big Data MicroDegree** · Beginner Level · Handong Global University *(2026.08.21)*
 - 🎓 Handong Global University · AI Computer Engineering
 
 ## 💼 Experience
