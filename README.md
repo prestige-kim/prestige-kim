@@ -43,6 +43,11 @@ Google Cloud AI Agent Challenge 2026 우수상 수상
 ---
 -->
 
+## 🚀 Activities
+
+- **2026 경북 스타트업 AI 콘텐츠 마케팅 해커톤**
+  - AI 콘텐츠 기획·제작 및 마케팅 프로젝트 과정 수료 · 2026.10.17
+
 ## 📫 Contact
 
 - 📧 Email : proudchris@icloud.com
